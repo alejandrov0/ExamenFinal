@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/PRUEBAS NUEVAS DE NOTAS/BlocdeNotas/app/src/main/res/layout/fragment_nueva_nota_dialog.xml" value="0.20108695652173914" />
+        <entry key="..\:/Users/carlos/Downloads/BlocdeNotas/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Users/carlos/Downloads/BlocdeNotas/app/src/main/res/drawable/ic_baseline_note_add_24.xml" value="0.14" />
+        <entry key="..\:/Users/carlos/Downloads/BlocdeNotas/app/src/main/res/drawable/ic_baseline_post_add_24.xml" value="0.14" />
+        <entry key="..\:/Users/carlos/Downloads/BlocdeNotas/app/src/main/res/drawable/ic_baseline_star_border_24.xml" value="0.14" />
+        <entry key="..\:/Users/carlos/Downloads/BlocdeNotas/app/src/main/res/drawable/ic_baseline_star_rate_24.xml" value="0.14" />
+        <entry key="..\:/Users/carlos/Downloads/BlocdeNotas/app/src/main/res/drawable/ic_dashboard_black_24dp.xml" value="0.14" />
+        <entry key="..\:/Users/carlos/Downloads/BlocdeNotas/app/src/main/res/drawable/ic_home_black_24dp.xml" value="0.14" />
+        <entry key="..\:/Users/carlos/Downloads/BlocdeNotas/app/src/main/res/drawable/ic_icons8_facebook_nuevo.xml" value="0.14" />
+        <entry key="..\:/Users/carlos/Downloads/BlocdeNotas/app/src/main/res/drawable/ic_icons8_instagram.xml" value="0.14" />
+        <entry key="..\:/Users/carlos/Downloads/BlocdeNotas/app/src/main/res/drawable/ic_icons8_twitter.xml" value="0.14" />
+        <entry key="..\:/Users/carlos/Downloads/BlocdeNotas/app/src/main/res/drawable/ic_launcher_background.xml" value="0.14" />
+        <entry key="..\:/Users/carlos/Downloads/BlocdeNotas/app/src/main/res/drawable/ic_notifications_black_24dp.xml" value="0.1" />
+        <entry key="..\:/Users/carlos/Downloads/BlocdeNotas/app/src/main/res/layout/activity_main.xml" value="0.14722222222222223" />
+        <entry key="..\:/Users/carlos/Downloads/BlocdeNotas/app/src/main/res/layout/activity_notas.xml" value="0.14722222222222223" />
+        <entry key="..\:/Users/carlos/Downloads/BlocdeNotas/app/src/main/res/layout/fragment_item.xml" value="0.14722222222222223" />
+        <entry key="..\:/Users/carlos/Downloads/BlocdeNotas/app/src/main/res/layout/fragment_item_list.xml" value="0.14722222222222223" />
+        <entry key="..\:/Users/carlos/Downloads/BlocdeNotas/app/src/main/res/layout/fragment_nueva_nota_dialog.xml" value="0.14722222222222223" />
+        <entry key="..\:/Users/jeffe/OneDrive/Escritorio/BlocdeNotas/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/jeffe/OneDrive/Escritorio/BlocdeNotas/app/src/main/res/layout/activity_notas.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/jeffe/OneDrive/Escritorio/BlocdeNotas/app/src/main/res/layout/fragment_item.xml" value="0.16485507246376813" />
+        <entry key="..\:/Users/jeffe/OneDrive/Escritorio/BlocdeNotas/app/src/main/res/layout/fragment_item_list.xml" value="0.1" />
+        <entry key="..\:/Users/jeffe/OneDrive/Escritorio/BlocdeNotas/app/src/main/res/layout/fragment_nueva_nota_dialog.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/jeffe/OneDrive/Escritorio/BlocdeNotas/app/src/main/res/menu/bottom_nav_menu.xml" value="0.18385416666666668" />
+        <entry key="..\:/Users/jeffe/OneDrive/Escritorio/BlocdeNotas/app/src/main/res/menu/options_menu_nota_fragment.xml" value="0.18385416666666668" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
